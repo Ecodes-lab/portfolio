@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# app files
+index - Copy.css
+index - Copy.js
+backup.js

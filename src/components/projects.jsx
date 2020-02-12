@@ -56,7 +56,7 @@ export default class Projects extends Component {
 									'The Bouncing Balls now bounces off when colided with each other. See difference in ', 
 									<a rel="noopener noreferrer" target="_blank" href="https://mdn.github.io/learning-area/javascript/oojs/bouncing-balls/index-finished.html">mdn</a>
 								  ],
-				href: 'https://github.com/aj-4/airbnb-booking-microsvc',
+				href: 'https://github.com/Ecodes-lab/bouncing-balls',
 				hrefLabel: 'Source Code',
 			},
 			{
