@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # app files
-index - Copy.css
-index - Copy.js
-backup.js
+'/src/index - Copy.css'
+'/src/index - Copy.js'
+/src/components/backup.js
